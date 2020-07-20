@@ -1,2 +1,4 @@
-# Wine-Dataset-Prediction
-Predict the price of a bottle of wine just from its description and variety.
+# "Wine Quality Prediction & Data Analysis"
+
+Dataset downloaded from
+### https://github.com/EshitaNandy/Wine-Dataset-Prediction
